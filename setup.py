@@ -6,7 +6,7 @@ from setuptools import setup
 setup(
     name='Distutils',
     version='1.0',
-    description='VT100 Animatior',
+    description='VT100 Animator',
     author='Chris Sinchok',
     author_email='chris@sinchok.com',
     url='http://github.com/csinchok/vt100-animator',
